@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Exploring+the+Field+of+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Exploring+the+Field+of+Tech;Always+Building,+Always+Learning!" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
   <a href="https://discordapp.com/users/mahesa3654">
     <img src="img/Discord.svg" alt="Discord" height="30"/>
   </a><br>
-  Reach me: <a href="mahesamp@gmail.com">mahesamp@gmail.com</a>
+  <b>📫 Reach me:</b> <a href="mailto:mahesamp@gmail.com">mahesamp@gmail.com</a>
 </p>
 
 ---
@@ -32,24 +32,23 @@
 <!-- TECH STACK -->
 ### 🛠 Tech Stack
 
+#### 💻 Languages & Tools
+
 <p align="center">
+  <img src="img/Java-Dark.svg" height="40" alt="Java"/>
+  <img src="img/CPP.svg" height="40" alt="C++"/>
+  <img src="img/CMake-Dark.svg" height="40" alt="CMake"/><br>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-  <img src="img/Java-Dark.svg" height="28"/>
-  <img src="img/CPP.svg" height="28"/>
-  <img src="img/CMake-Dark.svg" height="28"/>
 </p>
-
----
-
-<!-- OTHER TOOLS -->
-### ⚙️ Tools & Platforms
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
 </p>
 
 ---
@@ -58,14 +57,11 @@
 ### 🌌 Featured Project
 
 #### 🎮 [Stairway to Aluna](https://github.com/Vuxyn/Stairway-to-Aluna)
-> A top-down pixel RPG about memory, love, and quiet tragedy.  
+> A Platformers pixel RPG about memory, love, and quiet tragedy.  
 > *Inspired by Re:Zero and Sousou no Frieren.*  
-> Built with ❤️ in Java, custom game engine, and lots of midnight coffee ☕.
+> Built with ❤️ in Java, and lots of midnight coffee ☕.
 
 ---
-
-<!-- GITHUB STATS -->
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vuxyn&show_icons=true&theme=tokyonight&count_private=true" height="165">
@@ -73,19 +69,7 @@
 </p>
 
 ---
-
-<!-- SPOTIFY LISTENING -->
-### 🎧 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e3x3j2p7dn6emuxvuo3vdpvu7e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
-</p>
-
-> _*Real-time Spotify widget by [`kittinan`](https://github.com/kittinan/spotify-github-profile)*_  
-> Make sure your Spotify account is public with currently playing enabled!
-
----
-
+<!-- FOOTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vuxyn&style=flat-square&color=blue" alt="profile views"/>
 </p>
