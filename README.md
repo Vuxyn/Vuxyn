@@ -14,10 +14,10 @@
 <!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://www.instagram.com/ma.heysa?igsh=MWNxems1NXBjdG1p">
-    <img src="img/Instagram.svg" alt="Instagram" height="50"/>
+    <img src="img/Instagram.svg" alt="Instagram " height="50"/>
   </a>
   <a href="https://www.linkedin.com/in/i-kadek-mahesa-permana-putra-655184320">
-    <img src="img/LinkedIn.svg" alt="LinkedIn" height="50"/>
+    <img src="img/LinkedIn.svg" alt="LinkedIn " height="50"/>
   </a>
   <a href="https://discordapp.com/users/mahesa3654">
     <img src="img/Discord.svg" alt="Discord" height="50"/>
