@@ -1,32 +1,60 @@
-<!-- BANNER -->
-<h1 align="center">Hey There!👋 I'm Mahesa</h1>
+<!-- HEADER -->
 <p align="center">
-  <i>"Tinkering with code, pixels, and a bit of storytelling."</i><br>
+  <img src="img/header.png" alt="Mahesa's Banner" />
 </p>
 
+<h2 align="center">
+  <i>"Tinkering with code, pixels, and a bit of storytelling."</i>
+</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Exploring+Java+and+C+++" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Exploring+the+Field+of+Tech!" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- BADGES -->
-### 🛠 Tech Stack!
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![CMake](https://img.shields.io/badge/-CMake-F44D27?style=for-the-badge&logo=cmake&logoColor=white)
-![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
-![Tiled](https://img.shields.io/badge/-Tiled-00438A?style=for-the-badge)
+<!-- SOCIAL LINKS -->
+<p align="center">
+  <a href="https://www.instagram.com/ma.heysa?igsh=MWNxems1NXBjdG1p">
+    <img src="img/Instagram.svg" alt="Instagram" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/i-kadek-mahesa-permana-putra-655184320">
+    <img src="img/LinkedIn.svg" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://discordapp.com/users/mahesa3654">
+    <img src="img/Discord.svg" alt="Discord" height="30"/>
+  </a><br>
+  Reach me: <a href="mahesamp@gmail.com">mahesamp@gmail.com</a>
+</p>
 
 ---
 
-<!-- PROJECTS -->
+<!-- TECH STACK -->
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  <img src="img/Java-Dark.svg" height="28"/>
+  <img src="img/CPP.svg" height="28"/>
+  <img src="img/CMake-Dark.svg" height="28"/>
+</p>
+
+---
+
+<!-- OTHER TOOLS -->
+### ⚙️ Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+---
+
+<!-- FEATURED PROJECT -->
 ### 🌌 Featured Project
 
 #### 🎮 [Stairway to Aluna](https://github.com/Vuxyn/Stairway-to-Aluna)
@@ -46,18 +74,15 @@
 
 ---
 
-<!-- FUN FACTS -->
-### 🎲 Random Bits
-- I Love Noodles!
+<!-- SPOTIFY LISTENING -->
+### 🎧 Now Playing on Spotify
 
----
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31e3x3j2p7dn6emuxvuo3vdpvu7e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
+</p>
 
-<!-- CONNECT -->
-### ☕ Let's Talk!
-
-📫 Reach me: `yourname@email.com`  
-🌐 Website/Portfolio: [Coming Soon](#)  
-💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+> _*Real-time Spotify widget by [`kittinan`](https://github.com/kittinan/spotify-github-profile)*_  
+> Make sure your Spotify account is public with currently playing enabled!
 
 ---
 
