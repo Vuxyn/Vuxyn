@@ -4,11 +4,11 @@
 </p>
 
 <h2 align="center">
-  <i>"Tinkering with code, pixels, and a bit of storytelling."</i>
+  <i>"Code, pixels, and a bit of storytelling:P"</i>
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Exploring+the+Field+of+Tech;Always+Building,+Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+DevOps+Engineer;Exploring+the+Field+of+Tech;Always+Building,+Always+Learning!" alt="Typing SVG" />
 </p>
 
 <!-- SOCIAL LINKS -->
