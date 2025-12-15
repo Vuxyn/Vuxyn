@@ -50,12 +50,6 @@
 
 <!-- FEATURED PROJECT -->
 ### 🌌 Featured Project
-
-#### 🎮 [Stairway to Aluna](https://github.com/Vuxyn/Stairway-to-Aluna)
-> A Platformers pixel RPG about memory, love, and quiet tragedy.  
-> *Inspired by Re:Zero and Sousou no Frieren.*  
-> Built with ❤️ in Java, and lots of midnight coffee ☕.
-
 ---
 
 <p align="center">
