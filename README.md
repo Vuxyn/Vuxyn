@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=560&lines=Teknik+Informatika+%40+UNRAM;Full-Stack+%7C+ML+Research+%7C+Linux+Nerd;Always+Building%2C+Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=560&lines=Aspiring+DevOps+Engineer;Exploring+the+Field+of+Tech;Always+Building%2C+Always+Learning!" alt="Typing SVG" />
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -27,29 +27,18 @@
 </p>
 
 <p align="center">
-  <b>📫</b> <a href="mailto:mahesamp@gmail.com">mahesamp@gmail.com</a>
+  <b>Reach me:</b> <a href="mailto:mahesamp@gmail.com">mahesamp@gmail.com</a>
 </p>
 
 ---
 
-## 👤 About Me
+## About Me
 
-```python
-mahesa = {
-    "name"       : "I Kadek Mahesa Permana Putra",
-    "alias"      : "vuxyn",
-    "university" : "Universitas Mataram — Teknik Informatika, Sem. 4",
-    "roles"      : ["Lab Assistant (Algo & Programming)", "HMIF Member Empowerment", "GenBI NTB"],
-    "stack"      : ["Python", "Next.js", "Laravel", "C++", "Linux"],
-    "research"   : "IndoBERT · LoRA · Parallel Genetic Algorithm · PySpark",
-    "hobbies"    : ["realist drawing ✏️", "Re:Zero lore dives 📖", "self-hosting 🖥️"],
-    "os"         : "Fedora (main) + dual-boot",
-}
-```
+Informatics student at Universitas Mataram. Lab assistant for Algorithm & Programming courses, active in HMIF and GenBI NTB. Currently exploring full-stack development, machine learning research, and Linux infrastructure. I draw on the side and read too much Re:Zero.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -77,32 +66,10 @@ mahesa = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Velo-parallel](https://github.com/Vuxyn/velo-parallel)** | Audio effects processor with MPI, threading & CUDA | `Python` `MPI` `PyCUDA` |
-| **3Dēx** | Full-stack 3D model marketplace | `Next.js` `TypeScript` |
-| **OnVerse** | Digital reading platform (manga/manhwa/novels) | `PHP` `MySQL` `JS` |
-| **Float Notes** *(WIP)* | Floating overlay notes app for Android | `Flutter` `Dart` `Hive` |
-| **reminder-core** *(WIP)* | WhatsApp bot + reminder microservice | `Node.js` `Baileys` `Gemini` |
-
----
-
-## 📄 Research
-
-> **Parallel Genetic Algorithm-Based Hyperparameter Optimization for IndoBERT-LoRA in Indonesian Stock News Sentiment Analysis**
-> — *Submitted to SENIFORMA 2026*
-
-Optimizing IndoBERT fine-tuning with LoRA adapters using a surrogate-assisted parallel GA on PySpark, applied to Indonesian financial news sentiment (CNBC Indonesia, 9.8K headlines).
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vuxyn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160">
@@ -115,9 +82,6 @@ Optimizing IndoBERT fine-tuning with LoRA adapters using a surrogate-assisted pa
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vuxyn&style=flat-square&color=blue" alt="profile views"/>
 </p>
-
-<p align="center"><i>✨ "always building, always learning" ✨</i></p>
